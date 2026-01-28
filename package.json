@@ -2,7 +2,7 @@
   "name": "sg-moe-aidt-content",
   "version": "0.0.0",
   "license": "UNLICENSED",
-  "homepage": "https://shynny.github.io/",
+  "homepage": "https://shynny.github.io/IDT-MOE",
   "engines": {
     "node": "~20.5"
   },

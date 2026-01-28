@@ -28,3 +28,4 @@ yarn-error.log*
 # Jetbrains Webstorm
 .idea
 .vercel
+.env*.local
